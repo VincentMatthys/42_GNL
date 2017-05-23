@@ -13,3 +13,8 @@ You can find the entire subject in the `subjects/` directory.
 */
 int get_next_line(int const fd, char **line)
 ```
+
+## Using Makefile
+```
+make ; make clean
+```
